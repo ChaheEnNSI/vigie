@@ -1,2 +1,2 @@
-"""Vigie : un petit SIEM en Python qui détecte les attaques dans les journaux."""
+"""Vigie : mini SIEM en Python."""
 __version__ = "0.1.0"

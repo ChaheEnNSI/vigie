@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "vigie"
 version = "0.1.0"
-description = "Un petit SIEM en Python : détecte les attaques dans les journaux Linux, Windows, web et pare-feu (règles YAML, MITRE ATT&CK)."
+description = "Mini SIEM en Python : détection d'attaques dans des logs Linux, Windows, web et pare-feu"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }

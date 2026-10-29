@@ -196,8 +196,8 @@ def _links(a: Alert) -> tuple[set, set, set]:
 
 
 def incidents(alerts: list[Alert], host_window: timedelta = timedelta(minutes=30)) -> list[dict]:
-    """Regroupe les alertes en « incidents », comme le ferait un analyste :
-    même adresse source, même compte compromis, ou à défaut même machine dans la demi-heure."""
+    """Regroupe les alertes liées en incidents : même IP, même compte,
+    ou à défaut même machine dans la demi-heure."""
     groups: list[dict] = []
     for a in sorted(alerts, key=lambda x: x.first):
         ips, users, hosts = _links(a)
