@@ -8,7 +8,7 @@ from pathlib import Path
 from vigie.cli import DEFAULT_RULES, main
 from vigie.engine import analyse, incidents
 from vigie.parsers import parse_paths
-from vigie.report import to_html, to_json
+from vigie.report import table, to_html, to_json
 from vigie.rules import load_rules
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -56,6 +56,13 @@ def test_reports_escape_log_content(tmp_path):
     assert alerts, "la tentative de XSS doit être détectée"
     assert "<script>alert(1)</script>" not in page and "<img src=x" not in page
     assert "&lt;script&gt;" in page
+
+
+def test_terminal_table_lists_incidents():
+    _, _, alerts = scan()
+    out = table(alerts, color=False)
+    assert "18 alertes (3 critique · 8 haute · 7 moyenne)" in out
+    assert "2 incidents" in out and "203.0.113.45 · 10 alertes" in out and "198.51.100.23 · 8 alertes" in out
 
 
 def test_json_report():

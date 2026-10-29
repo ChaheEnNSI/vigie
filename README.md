@@ -6,7 +6,7 @@
 
 **Un petit SIEM en Python.** Vigie lit les journaux d’un système (Linux, Windows, serveur web, pare-feu), repère les attaques avec des règles lisibles reliées à MITRE ATT&CK, puis regroupe les alertes en incidents racontés dans l’ordre.
 
-> Site du projet : **https://chaheennsi.github.io/vigie/** · Rapport de démonstration : [docs/rapport-demo.html](https://chaheennsi.github.io/vigie/rapport-demo.html)
+> Site du projet : **https://chaheennsi.github.io/vigie/** · Rapport de démonstration : [en ligne](https://chaheennsi.github.io/portfolio2026/vigie/rapport.html) · Démo rejouée : [dans mon portfolio](https://chaheennsi.github.io/portfolio2026/)
 
 *[English summary below](#english-summary)*
 
@@ -36,6 +36,10 @@ python -m vigie scan samples --year 2026 --tz Europe/Paris
 28/10 21:45:00  CRITIQUE  VIG-007  Journal de sécurité effacé sur DC01.corp.local par jdupont
 
 18 alertes (3 critique · 8 haute · 7 moyenne)
+
+2 incidents
+  1. CRITIQUE  28/10 20:58 → 21:17  203.0.113.45 · 10 alertes · comptes : backup2, deploy
+  2. CRITIQUE  28/10 21:20 → 21:45  198.51.100.23 · 8 alertes · comptes : jdupont, svc-backup
 ```
 
 Le même résultat en rapport HTML autonome (incidents, chronologie, preuves, liens MITRE) :
@@ -133,7 +137,7 @@ Résultat, vérifié par les tests à chaque modification : **les 18 étapes att
 
 ```bash
 pip install -e ".[dev]"
-pytest -q          # 25 tests : formats, conditions, seuils, séquences, scénario complet, rapport
+pytest -q          # 26 tests : formats, conditions, seuils, séquences, scénario complet, rapport
 ruff check .
 ```
 

@@ -29,7 +29,15 @@ def table(alerts: list[Alert], color: bool = True) -> str:
         rows.append(f"{a.when:%d/%m %H:%M:%S}  {sev}  {a.rule.id}  {a.message}")
     by = Counter(a.severity for a in alerts)
     tail = " · ".join(f"{by[s]} {SEV_FR[s]}" for s in ("critical", "high", "medium", "low") if by[s])
-    return "\n".join(rows) + f"\n\n{len(alerts)} alertes ({tail})"
+    # les incidents : les alertes qui racontent la même attaque, regroupées
+    inc = incidents(alerts)
+    out = [f"{len(inc)} incident{'s' if len(inc) > 1 else ''}"]
+    for k, g in enumerate(inc, 1):
+        who = ", ".join(sorted(g["ips"])) or ", ".join(sorted(g["hosts"])) or "?"
+        users = f" · comptes : {', '.join(sorted(g['users']))}" if g["users"] else ""
+        n = len(g["alerts"])
+        out.append(f"  {k}. {SEV_FR[g['severity']].upper():<8}  {g['first']:%d/%m %H:%M} → {g['last']:%H:%M}  {who} · {n} alerte{'s' if n > 1 else ''}{users}")
+    return "\n".join(rows) + f"\n\n{len(alerts)} alertes ({tail})\n\n" + "\n".join(out)
 
 
 # ---------------------------------------------------------------- JSON
