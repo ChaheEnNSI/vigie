@@ -1,0 +1,38 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.10", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Installer
+        run: pip install -e ".[dev]"
+      - name: Qualité du code (ruff)
+        run: ruff check .
+      - name: Tests
+        run: pytest -q
+      - name: Les journaux de démo sont bien ceux du générateur
+        run: |
+          python samples/generate.py
+          git diff --exit-code samples tests/expected.json
+      - name: Rapport de démonstration
+        if: matrix.python == '3.13'
+        run: python -m vigie scan samples --year 2026 --tz Europe/Paris -f html -o rapport.html
+      - uses: actions/upload-artifact@v4
+        if: matrix.python == '3.13'
+        with:
+          name: rapport-vigie
+          path: rapport.html

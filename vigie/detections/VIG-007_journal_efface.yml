@@ -1,0 +1,11 @@
+id: VIG-007
+title: Journal de sécurité effacé
+severity: critical
+mitre: [T1070.001]
+description: >
+  Le journal de sécurité Windows a été vidé. Presque jamais légitime :
+  c'est le geste d'un attaquant qui efface ses traces.
+match:
+  source: windows
+  action: log_cleared
+message: "Journal de sécurité effacé sur {host} par {user}"

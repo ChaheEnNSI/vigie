@@ -1,0 +1,17 @@
+id: VIG-003
+title: Connexion réussie après une série d'échecs
+severity: critical
+mitre: [T1110, T1078]
+description: >
+  Une adresse accumule les échecs de connexion, puis réussit à se connecter :
+  le mot de passe a probablement été trouvé. À traiter en priorité.
+match:
+  action: [auth_failure, auth_success]
+sequence:
+  key: src_ip
+  window: 30m
+  steps:
+    - match: { action: auth_failure }
+      min: 5
+    - match: { action: auth_success }
+message: "Connexion réussie depuis {src_ip} après une série d'échecs ({count} événements en {duration})"

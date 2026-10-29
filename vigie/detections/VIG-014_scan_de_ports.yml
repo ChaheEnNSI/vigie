@@ -1,0 +1,16 @@
+id: VIG-014
+title: Scan de ports
+severity: medium
+mitre: [T1046]
+description: >
+  Une même adresse frappe à beaucoup de ports différents en quelques instants :
+  elle cartographie les services ouverts avant d'attaquer.
+match:
+  source: firewall
+  action: conn_blocked
+threshold:
+  group_by: src_ip
+  distinct: dst_port
+  count: 15
+  window: 2m
+message: "{distinct} ports différents testés par {src_ip} en {duration}"

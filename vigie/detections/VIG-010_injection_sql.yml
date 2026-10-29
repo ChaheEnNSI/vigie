@@ -1,0 +1,15 @@
+id: VIG-010
+title: Tentative d'injection SQL
+severity: high
+mitre: [T1190]
+description: >
+  Des requêtes web contiennent des morceaux de SQL (UNION SELECT, ' OR 1=1, SLEEP…) :
+  quelqu'un essaie de faire exécuter ses propres requêtes à la base de données.
+match:
+  action: http_request
+  url:
+    regex: "(union\\s+(all\\s+)?select|'\\s*or\\s*'?\\d+'?\\s*=\\s*'?\\d+|\\bor\\s+1\\s*=\\s*1|sleep\\s*\\(\\s*\\d+|benchmark\\s*\\(|information_schema|;\\s*drop\\s+table|'\\s*--)"
+dedup:
+  key: src_ip
+  window: 15m
+message: "{count} requêtes d'injection SQL depuis {src_ip} (ex. {path})"

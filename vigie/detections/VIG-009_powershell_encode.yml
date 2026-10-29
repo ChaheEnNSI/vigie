@@ -1,0 +1,12 @@
+id: VIG-009
+title: PowerShell avec commande encodée
+severity: high
+mitre: [T1059.001, T1027]
+description: >
+  PowerShell lancé avec une commande encodée en base64 (-enc) : utilisé pour cacher
+  ce qui est réellement exécuté.
+match:
+  action: process_created
+  command_line:
+    regex: 'powershell(\.exe)?["'']?\s.*-(e|ec|en|enc|enco|encodedcommand)\s'
+message: "PowerShell encodé lancé par {user} sur {host}"

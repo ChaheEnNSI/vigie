@@ -1,0 +1,12 @@
+id: VIG-008
+title: Service installé depuis un emplacement suspect
+severity: high
+mitre: [T1543.003]
+description: >
+  Un service Windows est installé avec un exécutable placé dans un dossier temporaire ou public,
+  ou lancé par PowerShell / cmd : technique courante pour rester sur la machine.
+match:
+  action: service_installed
+  image_path:
+    contains: ['\Temp\', '\AppData\', '\Users\Public\', '\ProgramData\', 'powershell', 'cmd.exe /c']
+message: "Service « {service} » installé sur {host} : {image_path}"

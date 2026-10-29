@@ -1,0 +1,15 @@
+id: VIG-012
+title: Traversée de répertoires
+severity: high
+mitre: [T1190, T1083]
+description: >
+  Des requêtes cherchent à sortir du dossier du site (../) pour lire des fichiers système
+  comme /etc/passwd ou win.ini.
+match:
+  action: http_request
+  url:
+    regex: "(\\.\\./|\\.\\.\\\\|/etc/passwd|/etc/shadow|win\\.ini|boot\\.ini)"
+dedup:
+  key: src_ip
+  window: 15m
+message: "{count} tentatives de lecture de fichiers système depuis {src_ip}"

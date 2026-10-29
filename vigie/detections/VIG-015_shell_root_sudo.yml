@@ -1,0 +1,14 @@
+id: VIG-015
+title: Shell root ouvert avec sudo
+severity: medium
+mitre: [T1548.003]
+description: >
+  Un utilisateur ouvre un terminal complet en root avec sudo (sudo bash, sudo -i, sudo su).
+  Normal pour un administrateur ; suspect juste après une connexion inhabituelle.
+match:
+  source: linux
+  action: sudo
+  target_user: root
+  command:
+    regex: "(^|/)(ba|z|k|da)?sh(\\s|$)|(^|/)su(\\s|$)|\\s-(i|s)(\\s|$)"
+message: "{user} a ouvert un shell root sur {host} ({command})"

@@ -1,0 +1,15 @@
+id: VIG-001
+title: Force brute SSH
+severity: high
+mitre: [T1110.001]
+description: >
+  Beaucoup d'échecs de connexion SSH depuis la même adresse en peu de temps :
+  quelqu'un essaie de deviner un mot de passe.
+match:
+  source: linux
+  action: auth_failure
+threshold:
+  group_by: src_ip
+  count: 8
+  window: 5m
+message: "{count} échecs de connexion SSH depuis {src_ip} en {duration}"

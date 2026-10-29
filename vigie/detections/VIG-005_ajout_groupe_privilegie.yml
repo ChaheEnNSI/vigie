@@ -1,0 +1,19 @@
+id: VIG-005
+title: Ajout à un groupe à privilèges
+severity: high
+mitre: [T1098]
+description: >
+  Un compte est ajouté à un groupe d'administration (Admins du domaine, Administrateurs, sudo…).
+  Normal s'il y a une demande derrière ; sinon, signe classique de prise de contrôle.
+match:
+  action: group_member_added
+  group:
+    - Domain Admins
+    - Admins du domaine
+    - Enterprise Admins
+    - Administrators
+    - Administrateurs
+    - sudo
+    - wheel
+    - admin
+message: "{user} ajouté au groupe « {group} »"

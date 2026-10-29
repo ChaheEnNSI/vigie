@@ -1,0 +1,15 @@
+id: VIG-002
+title: Pulvérisation de mots de passe
+severity: high
+mitre: [T1110.003]
+description: >
+  Une même adresse essaie de nombreux comptes différents, souvent avec un mot de passe courant
+  (« password spraying »). Plus discret qu'une force brute : peu d'échecs par compte.
+match:
+  action: auth_failure
+threshold:
+  group_by: src_ip
+  distinct: user
+  count: 5
+  window: 10m
+message: "{distinct} comptes différents essayés depuis {src_ip} en {duration}"

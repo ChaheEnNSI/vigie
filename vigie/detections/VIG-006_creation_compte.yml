@@ -1,0 +1,10 @@
+id: VIG-006
+title: Création de compte
+severity: medium
+mitre: [T1136]
+description: >
+  Un nouveau compte a été créé. À rapprocher d'une demande légitime ;
+  un attaquant crée souvent un compte pour garder un accès.
+match:
+  action: account_created
+message: "Compte « {user} » créé sur {host}"

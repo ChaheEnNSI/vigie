@@ -1,0 +1,15 @@
+id: VIG-013
+title: Scanner de vulnérabilités web
+severity: medium
+mitre: [T1595.002]
+description: >
+  Le navigateur annoncé est un outil d'attaque connu (sqlmap, Nikto, Nuclei…) :
+  le site est passé au crible de façon automatique.
+match:
+  action: http_request
+  user_agent:
+    contains: [sqlmap, nikto, nmap, masscan, wpscan, gobuster, dirbuster, nuclei, zgrab, acunetix, hydra]
+dedup:
+  key: src_ip
+  window: 30m
+message: "Scanner détecté depuis {src_ip} ({count} requêtes)"

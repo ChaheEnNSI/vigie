@@ -1,0 +1,15 @@
+id: VIG-011
+title: Tentative de XSS
+severity: medium
+mitre: [T1190, T1059.007]
+description: >
+  Des requêtes web contiennent du code JavaScript (<script>, onerror=, javascript:) :
+  quelqu'un essaie d'injecter du code qui s'exécuterait chez les autres visiteurs.
+match:
+  action: http_request
+  url:
+    regex: "(<\\s*script|javascript\\s*:|on(error|load|mouseover)\\s*=|<\\s*svg|<\\s*img[^>]+src\\s*=)"
+dedup:
+  key: src_ip
+  window: 15m
+message: "{count} tentatives de XSS depuis {src_ip}"

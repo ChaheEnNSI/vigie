@@ -1,0 +1,3355 @@
+[
+ {
+  "TimeCreated": "2026-10-28T07:01:47.4208930+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.31"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:07:04.4205585+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.10"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:09:17.8216831+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.27"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:10:57.8532287+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.13"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:12:22.9466194+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.18"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:13:11.6192409+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.47"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:20:08.4690628+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.15"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:21:14.0906448+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.11"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:23:59.5662783+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.22"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:24:27.3025349+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.43"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:27:23.4985234+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.26"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:29:14.1394246+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.27"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:33:06.0547979+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.14"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:34:53.7639759+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.30"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:36:42.7982578+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.30"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:37:19.4569470+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.22"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:39:52.8415046+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.49"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:51:28.8017110+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.49"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T07:53:25.5474900+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.43"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:01:02.0848525+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.32"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:06:04.5913107+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.17"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:07:23.4614155+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.17"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:11:21.4579247+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.52"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:18:41.6235821+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.40"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:24:03.0605619+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.21"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:25:24.1130417+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.57"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:30:24.3154525+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.36"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:30:36.3531765+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.48"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:37:34.9179509+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.53"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:39:34.0279925+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.27"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:41:02.4135663+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.18"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:41:45.6077946+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.42",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:41:51.5356908+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.42"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:41:57.7057349+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.34"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:43:25.0599938+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.26",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:43:33.7066969+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.26"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:43:46.0899317+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.43"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:44:15.6778001+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.47",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:44:23.0233633+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.47"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:50:41.9866372+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.23"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:51:59.0658372+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.49"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:52:36.6947410+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.59"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T08:58:07.8277157+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.23"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:08:52.4885484+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.30"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:11:44.8194942+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.46"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:23:19.4949691+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.18"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:23:36.4428098+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.15"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:25:51.0717536+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.20"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:27:25.0473217+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.50"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:30:02.9167982+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.17"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:31:45.5298482+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.57"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:38:46.4074695+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.56"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:38:58.5562281+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.56"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:39:04.5826948+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.36",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:39:10.0260870+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.36",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:39:23.2431661+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.36"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:39:58.5876319+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.59"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:41:08.2582119+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.13"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:43:55.1924740+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.25"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:44:09.0187070+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.40"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:45:53.6231983+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.44"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:47:00.4600182+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.34"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:48:32.2735895+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.25"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:48:40.1040651+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.35"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:50:16.4506033+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.55",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:50:26.0859442+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.55"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:52:01.5628930+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.48"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:59:29.0982060+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.48"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:59:43.7616228+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.16"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T09:59:57.1792314+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.47"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:04:23.3254730+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.17"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:06:05.8581812+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.43"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:10:44.2105748+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.25"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:12:31.5175768+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.48"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:13:36.2406165+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.38"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:25:59.7923210+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.48"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:26:42.0243262+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.57"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:27:28.9423983+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.42"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:28:18.0656449+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.13"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:41:02.8120208+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.52"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:43:35.0863869+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.25"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:43:48.2441915+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.36"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:46:53.2077540+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.59"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:49:26.9239072+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.42"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:51:17.8220279+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.28"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:51:32.2810248+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.10"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T10:52:08.7904415+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.11"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:07:42.1983738+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.20"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:09:36.3929490+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.10"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:10:02.0051428+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.50",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:10:08.6744548+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.50"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:12:37.4938404+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.37"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:13:17.3318406+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.31"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:16:53.4820949+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.21",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:16:57.7350314+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.21"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:18:26.0784635+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.34"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:24:16.8602034+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.30"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:24:33.4658468+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.58"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:28:20.2850081+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.51"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:31:28.9982119+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.23"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:36:27.6865133+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.16"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:43:42.6830939+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.39"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:45:21.9495233+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.33"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:45:22.5183140+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.37"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:45:29.2172298+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.10"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:56:52.7561380+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.34",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:57:00.8924217+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.34"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:57:16.8736719+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.51"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:58:28.5516960+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.31"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:58:30.7450727+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.38"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T11:59:13.7649339+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.45"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:02:51.2479414+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.36"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:03:56.8204701+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.45"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:04:31.1228898+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.56"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:11:32.2240381+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.34"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:20:04.6244527+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.23",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:20:15.1527923+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.23"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:22:11.3069296+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.30"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:26:30.9103341+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.19"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:27:19.6479156+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.47",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:27:29.3919356+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.47",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:27:40.6547222+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.47"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:28:09.0030956+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.22"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:32:03.0647180+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.41"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:33:37.8620817+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.17"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:35:12.9836477+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.25"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:42:39.9867147+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.35"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:47:49.9846419+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.33"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:50:26.4340650+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.52"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T12:57:17.6985875+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.42"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:04:07.1676318+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.53"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:06:32.5323345+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.50"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:08:23.1923103+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.16"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:08:31.1189491+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.15"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:10:17.1080779+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.57"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:14:54.8175909+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.43"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:15:25.2461203+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.49"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:16:02.2834395+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.57"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:16:52.3284630+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.19"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:19:50.0514373+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.51"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:25:37.5075540+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.52",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:25:45.0008649+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.52"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:26:44.1112022+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.48"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:27:37.0416573+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.17"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:28:27.2583496+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.14"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:30:55.6909201+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.31"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:32:37.0166592+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.54"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:37:56.8801950+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.53"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:38:07.6348598+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.23"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:40:52.4868556+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.43"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:44:39.0157187+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.16"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:45:36.0751732+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.10"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:46:00.2504232+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.28"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T13:51:29.1408431+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.35"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:07:27.6970580+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.20"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:13:36.8203418+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.30"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:13:39.5941552+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.59"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:18:55.2589621+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.54"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:18:56.5848811+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.41"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:22:26.5355682+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.47"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:25:41.0317016+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.42"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:25:46.1064096+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.46"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:26:07.5605143+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.29"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:27:35.9761763+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.25"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:29:53.5766926+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.39"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:32:57.9945418+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.39"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:39:01.5851027+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.25"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:43:14.4458324+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.30"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:43:34.5995084+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.43"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:44:33.1261765+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.37"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:46:53.7346548+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.14"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:50:18.5017615+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.17"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T14:58:57.8848015+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.47"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:06:30.5115954+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.17"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:09:36.9375888+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.57"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:11:29.4189931+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.19",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:11:43.7285702+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.19"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:12:14.3282253+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.17"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:16:51.3755606+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.35"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:17:55.7727908+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.38"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:17:59.5888524+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.12"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:29:43.6768048+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.19"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:30:01.2775271+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.44"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:30:01.3396391+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.26"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:32:56.7451542+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.11"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:33:15.6608358+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.48"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:33:39.4866094+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.38"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:37:29.7761126+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.20"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:38:01.2645018+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.26"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:41:40.8912156+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.57"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:43:58.4635568+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.53"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:46:39.8508426+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.30"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:51:40.1007061+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.55"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:51:43.3368733+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.44"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:54:11.4376270+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.32"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:57:08.0245162+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.41"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:58:17.3802344+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.40"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T15:58:51.6092506+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.19"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:00:03.0515697+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.51"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:01:11.3889767+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.35"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:01:15.4978052+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.54"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:05:06.3339208+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.35"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:05:45.6940330+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.58"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:07:23.3818084+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.30"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:07:56.9260380+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.44",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:08:02.3576286+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.44",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:08:06.8571795+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.44"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:10:01.1616687+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.28"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:12:14.8241119+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.25"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:12:21.8148242+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.56"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:13:05.8699234+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.47"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:14:53.7918151+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.19"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:15:38.7338329+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.35"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:21:44.6452993+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.31"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:22:33.0239194+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.40",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:22:42.8326313+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.40"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:24:33.5629975+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.35"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:24:44.3944054+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.51"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:34:41.0297051+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.21"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:46:19.5524349+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.24"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:48:58.4040390+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.57"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:50:35.5401703+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.31"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:52:08.1177743+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.32"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:53:52.7982459+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.50"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T16:58:00.6116339+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.42"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:00:40.7758691+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.15"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:00:57.5938617+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.22"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:05:27.6675077+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.23"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:05:51.7193909+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.25"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:05:51.9554858+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.21"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:11:42.1199697+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.13"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:12:08.2607988+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.41"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:16:22.1022271+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.18"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:20:49.9842457+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.44"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:25:40.4772044+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.15"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:30:53.3170414+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.29"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:34:59.0764128+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.59"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:35:21.9458307+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.11"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:38:13.7495486+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.45"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:39:22.6824857+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.33"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:40:55.8000786+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.37"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:46:48.8100469+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.41"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:55:42.8270993+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.44"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T17:59:49.6486656+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.48"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:08:07.1800016+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.52"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:15:37.1254721+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.25"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:18:33.1326750+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.21"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:18:45.1172750+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.30"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:23:07.9601987+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.44"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:23:22.7194846+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.30",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:23:33.3712023+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.30",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:23:41.9879680+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.30"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:23:42.9144986+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.20"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:25:33.3576295+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.42",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:25:42.3899091+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.42"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:28:13.3021772+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.28"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:35:00.0234264+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.25"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:37:24.6964941+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.39"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:38:45.7212195+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.26"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:43:13.3948939+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.21"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:44:41.9707466+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.33"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:50:28.7616923+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.31"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:50:59.9448459+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.13"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:54:55.4182125+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.44"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T18:59:45.1855258+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.16"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:01:14.2308590+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.54"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:07:05.2065644+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.14"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:09:03.8377748+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.17"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:10:10.0381222+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.46"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:19:18.3547651+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.35"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:20:36.7607365+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.47"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:22:09.9712187+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.48",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:22:24.0039261+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.48",
+   "Status": "0xc000006d"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:22:35.5770494+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "alice",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.49"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:22:36.2201916+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.48"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:26:52.9919744+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.15"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:33:40.2018276+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.19"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:47:05.4980051+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "2",
+   "IpAddress": "10.0.1.15"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:48:06.5124230+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "carla",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.39"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:48:37.8095135+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "mmartin",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.54"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:55:30.0840280+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.19"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T19:55:59.9864907+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "bob",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "10.0.1.37"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:30:00.5286380+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:30:17.5922984+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:30:36.1740132+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:30:53.8484771+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:31:12.6176221+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:31:28.9562600+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:31:43.5305520+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:31:58.7691338+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:32:15.3543911+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:32:32.8440835+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:32:45.1861715+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:32:58.8979115+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:33:15.2889922+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:33:28.3610824+01:00",
+  "Id": 4625,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "administrateur",
+   "TargetDomainName": "CORP",
+   "LogonType": "3",
+   "IpAddress": "198.51.100.23",
+   "Status": "0xc000006a"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:36:12.0705023+01:00",
+  "Id": 4624,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "jdupont",
+   "TargetDomainName": "CORP",
+   "LogonType": "10",
+   "IpAddress": "198.51.100.23"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:38:40.2395203+01:00",
+  "Id": 4688,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "SubjectUserName": "jdupont",
+   "NewProcessName": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+   "CommandLine": "powershell.exe -nop -w hidden -enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAEMAbABpAGUAbgB0ACkA"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:40:05.0239095+01:00",
+  "Id": 4720,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "TargetUserName": "svc-backup",
+   "TargetDomainName": "CORP",
+   "SubjectUserName": "jdupont"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:40:30.4835936+01:00",
+  "Id": 4732,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "MemberName": "CN=svc-backup,CN=Users,DC=corp,DC=local",
+   "TargetUserName": "Administrateurs",
+   "SubjectUserName": "jdupont"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:42:10.9323263+01:00",
+  "Id": 7045,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "ServiceName": "WinUpdateSvc",
+   "ImagePath": "C:\\Users\\Public\\winupdate.exe",
+   "ServiceType": "user mode service",
+   "StartType": "auto start"
+  }
+ },
+ {
+  "TimeCreated": "2026-10-28T21:45:00.5474233+01:00",
+  "Id": 1102,
+  "MachineName": "DC01.corp.local",
+  "EventData": {
+   "SubjectUserName": "jdupont",
+   "SubjectDomainName": "CORP"
+  }
+ }
+]

@@ -1,0 +1,279 @@
+Oct 28 00:17:00 web01 CRON[6750]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 01:17:00 web01 CRON[1772]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 02:17:00 web01 CRON[11168]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 03:17:00 web01 CRON[14568]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 04:17:00 web01 CRON[18574]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 05:17:00 web01 CRON[8900]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 06:17:00 web01 CRON[27751]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 07:17:00 web01 CRON[28907]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 08:04:03 web01 sshd[5194]: Failed password for alice from 10.0.1.55 port 60798 ssh2
+Oct 28 08:04:06 web01 sshd[16941]: Failed password for alice from 10.0.1.55 port 40689 ssh2
+Oct 28 08:04:09 web01 sshd[31826]: Accepted password for alice from 10.0.1.55 port 59443 ssh2
+Oct 28 08:06:25 web01 sshd[25440]: Accepted publickey for alice from 10.0.1.20 port 41513 ssh2
+Oct 28 08:10:08 web01 sudo[20607]:    deploy : TTY=pts/3 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 28 08:13:45 web01 sshd[12554]: Accepted publickey for mmartin from 10.0.1.17 port 41165 ssh2
+Oct 28 08:17:00 web01 CRON[30987]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 08:23:19 web01 sudo[17926]:    deploy : TTY=pts/3 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 28 08:23:36 web01 sshd[3941]: Accepted publickey for alice from 10.0.1.27 port 48392 ssh2
+Oct 28 08:26:19 web01 sshd[20776]: Accepted password for bob from 10.0.1.27 port 45406 ssh2
+Oct 28 08:27:29 web01 sshd[16401]: Accepted publickey for alice from 10.0.1.51 port 61611 ssh2
+Oct 28 08:45:23 web01 sshd[17813]: Accepted publickey for mmartin from 10.0.1.44 port 57581 ssh2
+Oct 28 08:53:08 web01 sshd[12952]: Accepted publickey for deploy from 10.0.1.53 port 44030 ssh2
+Oct 28 08:55:21 web01 sshd[6455]: Accepted publickey for deploy from 10.0.1.48 port 60283 ssh2
+Oct 28 08:56:41 web01 sudo[10685]:    deploy : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Oct 28 09:00:39 web01 sudo[10282]:    deploy : TTY=pts/2 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 09:05:17 web01 sudo[27367]:    deploy : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 28 09:17:00 web01 CRON[5077]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 09:19:25 web01 sshd[1831]: Failed password for bob from 10.0.1.32 port 46087 ssh2
+Oct 28 09:19:29 web01 sshd[2531]: Accepted publickey for bob from 10.0.1.32 port 41275 ssh2
+Oct 28 09:20:07 web01 sudo[8545]:    alice : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 09:27:42 web01 sshd[22580]: Accepted publickey for deploy from 10.0.1.22 port 47361 ssh2
+Oct 28 09:28:49 web01 sshd[7480]: Accepted publickey for alice from 10.0.1.22 port 56146 ssh2
+Oct 28 09:37:02 web01 sshd[27086]: Accepted publickey for alice from 10.0.1.43 port 52656 ssh2
+Oct 28 09:46:46 web01 sshd[21098]: Accepted password for mmartin from 10.0.1.53 port 55813 ssh2
+Oct 28 09:48:21 web01 sshd[27990]: Accepted publickey for bob from 10.0.1.39 port 43456 ssh2
+Oct 28 09:48:24 web01 sshd[4821]: Accepted publickey for mmartin from 10.0.1.42 port 42998 ssh2
+Oct 28 09:48:38 web01 sshd[24402]: Accepted password for mmartin from 10.0.1.17 port 50974 ssh2
+Oct 28 09:54:12 web01 sshd[24551]: Failed password for carla from 10.0.1.21 port 47229 ssh2
+Oct 28 09:54:21 web01 sshd[21289]: Accepted publickey for carla from 10.0.1.21 port 50117 ssh2
+Oct 28 09:54:24 web01 sshd[9121]: Accepted password for carla from 10.0.1.38 port 49745 ssh2
+Oct 28 09:54:32 web01 sshd[12699]: Accepted publickey for mmartin from 10.0.1.48 port 51128 ssh2
+Oct 28 09:58:40 web01 sshd[2512]: Accepted publickey for mmartin from 10.0.1.18 port 57509 ssh2
+Oct 28 10:00:52 web01 sshd[22881]: Accepted publickey for deploy from 10.0.1.15 port 53717 ssh2
+Oct 28 10:04:35 web01 sshd[17957]: Accepted password for bob from 10.0.1.58 port 57301 ssh2
+Oct 28 10:05:01 web01 sshd[2910]: Accepted publickey for deploy from 10.0.1.37 port 56314 ssh2
+Oct 28 10:06:22 web01 sudo[24426]:    alice : TTY=pts/2 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 28 10:06:50 web01 sshd[20840]: Accepted publickey for bob from 10.0.1.45 port 52366 ssh2
+Oct 28 10:12:35 web01 sshd[22091]: Failed password for carla from 10.0.1.53 port 59267 ssh2
+Oct 28 10:12:41 web01 sshd[7160]: Failed password for carla from 10.0.1.53 port 51899 ssh2
+Oct 28 10:12:45 web01 sshd[16422]: Accepted password for carla from 10.0.1.53 port 51784 ssh2
+Oct 28 10:17:00 web01 CRON[27980]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 10:19:30 web01 sshd[14008]: Accepted publickey for bob from 10.0.1.30 port 47947 ssh2
+Oct 28 10:26:41 web01 sshd[8139]: Accepted password for mmartin from 10.0.1.41 port 49851 ssh2
+Oct 28 10:46:07 web01 sudo[31753]:    alice : TTY=pts/1 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 28 10:58:29 web01 sudo[4029]:    alice : TTY=pts/1 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 11:02:23 web01 sshd[16545]: Accepted publickey for deploy from 10.0.1.12 port 56500 ssh2
+Oct 28 11:07:24 web01 sshd[6786]: Accepted publickey for bob from 10.0.1.29 port 58560 ssh2
+Oct 28 11:09:28 web01 sshd[25593]: Accepted publickey for deploy from 10.0.1.16 port 53880 ssh2
+Oct 28 11:13:11 web01 sshd[15168]: Accepted password for deploy from 10.0.1.49 port 45154 ssh2
+Oct 28 11:16:35 web01 sudo[4788]:    alice : TTY=pts/2 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Oct 28 11:17:00 web01 CRON[14691]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 11:17:13 web01 sshd[18185]: Failed password for deploy from 10.0.1.53 port 64248 ssh2
+Oct 28 11:17:19 web01 sshd[30462]: Accepted publickey for deploy from 10.0.1.53 port 52902 ssh2
+Oct 28 11:17:47 web01 sshd[25900]: Accepted publickey for deploy from 10.0.1.43 port 45217 ssh2
+Oct 28 11:19:07 web01 sshd[10204]: Accepted publickey for carla from 10.0.1.53 port 50361 ssh2
+Oct 28 11:25:46 web01 sudo[1593]:    deploy : TTY=pts/2 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Oct 28 11:32:25 web01 sudo[27101]:    alice : TTY=pts/2 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Oct 28 11:32:29 web01 sudo[16124]:    deploy : TTY=pts/3 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 28 11:32:55 web01 sshd[6938]: Failed password for carla from 10.0.1.36 port 59519 ssh2
+Oct 28 11:33:01 web01 sshd[20179]: Accepted publickey for carla from 10.0.1.36 port 43726 ssh2
+Oct 28 11:33:22 web01 sudo[2271]:    alice : TTY=pts/3 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 11:35:37 web01 sshd[4405]: Accepted password for deploy from 10.0.1.32 port 40954 ssh2
+Oct 28 11:37:04 web01 sshd[27284]: Accepted password for mmartin from 10.0.1.20 port 43462 ssh2
+Oct 28 11:38:54 web01 sshd[16998]: Accepted password for mmartin from 10.0.1.14 port 46443 ssh2
+Oct 28 11:44:51 web01 sudo[26887]:    alice : TTY=pts/3 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 11:47:40 web01 sudo[13486]:    deploy : TTY=pts/1 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 28 11:47:52 web01 sshd[19103]: Accepted publickey for mmartin from 10.0.1.43 port 41115 ssh2
+Oct 28 11:50:55 web01 sshd[23132]: Accepted publickey for carla from 10.0.1.59 port 58313 ssh2
+Oct 28 11:55:33 web01 sshd[1761]: Accepted password for carla from 10.0.1.27 port 59016 ssh2
+Oct 28 11:55:44 web01 sshd[20611]: Accepted publickey for carla from 10.0.1.20 port 44209 ssh2
+Oct 28 11:55:51 web01 sshd[12251]: Accepted publickey for mmartin from 10.0.1.41 port 42837 ssh2
+Oct 28 11:59:34 web01 sshd[28451]: Accepted publickey for alice from 10.0.1.11 port 60516 ssh2
+Oct 28 12:00:40 web01 sshd[7350]: Accepted publickey for bob from 10.0.1.10 port 52781 ssh2
+Oct 28 12:07:55 web01 sshd[20394]: Failed password for mmartin from 10.0.1.25 port 59689 ssh2
+Oct 28 12:08:00 web01 sshd[31082]: Accepted publickey for mmartin from 10.0.1.25 port 63855 ssh2
+Oct 28 12:08:44 web01 sshd[22335]: Accepted publickey for alice from 10.0.1.14 port 46602 ssh2
+Oct 28 12:09:17 web01 sshd[4286]: Accepted password for deploy from 10.0.1.35 port 63386 ssh2
+Oct 28 12:13:06 web01 sudo[7271]:    alice : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 12:14:15 web01 sudo[12000]:    alice : TTY=pts/3 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/nginx/error.log
+Oct 28 12:17:00 web01 CRON[13646]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 12:26:59 web01 sshd[31400]: Accepted password for carla from 10.0.1.45 port 46231 ssh2
+Oct 28 12:27:52 web01 sshd[28731]: Accepted publickey for deploy from 10.0.1.45 port 52317 ssh2
+Oct 28 12:31:59 web01 sshd[9412]: Accepted password for alice from 10.0.1.52 port 50290 ssh2
+Oct 28 12:32:53 web01 sshd[29176]: Accepted publickey for deploy from 10.0.1.29 port 53463 ssh2
+Oct 28 12:34:35 web01 sshd[19192]: Failed password for alice from 10.0.1.44 port 55203 ssh2
+Oct 28 12:34:40 web01 sshd[6496]: Accepted password for alice from 10.0.1.44 port 44511 ssh2
+Oct 28 12:36:25 web01 sudo[19605]:    deploy : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/nginx/error.log
+Oct 28 12:39:41 web01 sshd[24745]: Accepted publickey for alice from 10.0.1.40 port 62960 ssh2
+Oct 28 12:39:43 web01 sshd[31378]: Accepted password for carla from 10.0.1.10 port 58538 ssh2
+Oct 28 12:41:41 web01 sshd[25404]: Failed password for bob from 10.0.1.39 port 42435 ssh2
+Oct 28 12:41:50 web01 sshd[31710]: Failed password for bob from 10.0.1.39 port 44269 ssh2
+Oct 28 12:41:57 web01 sshd[27860]: Accepted password for bob from 10.0.1.39 port 47969 ssh2
+Oct 28 12:44:05 web01 sshd[23685]: Accepted password for alice from 10.0.1.27 port 51014 ssh2
+Oct 28 12:46:40 web01 sudo[2194]:    deploy : TTY=pts/3 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 12:47:34 web01 sshd[15913]: Accepted password for alice from 10.0.1.11 port 63410 ssh2
+Oct 28 12:49:20 web01 sshd[18919]: Accepted password for bob from 10.0.1.56 port 50836 ssh2
+Oct 28 12:49:30 web01 sshd[3336]: Accepted password for carla from 10.0.1.39 port 64303 ssh2
+Oct 28 12:53:58 web01 sudo[20992]:    alice : TTY=pts/1 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 12:58:55 web01 sshd[6685]: Accepted publickey for carla from 10.0.1.10 port 47499 ssh2
+Oct 28 13:00:48 web01 sshd[1228]: Accepted password for carla from 10.0.1.34 port 55722 ssh2
+Oct 28 13:06:16 web01 sshd[25341]: Accepted publickey for deploy from 10.0.1.43 port 57714 ssh2
+Oct 28 13:09:45 web01 sshd[20102]: Accepted publickey for mmartin from 10.0.1.12 port 51567 ssh2
+Oct 28 13:13:16 web01 sudo[10586]:    alice : TTY=pts/3 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 28 13:14:34 web01 sshd[14449]: Failed password for deploy from 10.0.1.39 port 40495 ssh2
+Oct 28 13:14:40 web01 sshd[23014]: Accepted publickey for deploy from 10.0.1.39 port 54455 ssh2
+Oct 28 13:17:00 web01 CRON[23114]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 13:23:41 web01 sshd[20782]: Accepted publickey for deploy from 10.0.1.44 port 44980 ssh2
+Oct 28 13:26:29 web01 sshd[18748]: Failed password for alice from 10.0.1.48 port 57707 ssh2
+Oct 28 13:26:38 web01 sshd[4706]: Failed password for alice from 10.0.1.48 port 41791 ssh2
+Oct 28 13:26:47 web01 sshd[13480]: Accepted publickey for alice from 10.0.1.48 port 48572 ssh2
+Oct 28 13:35:19 web01 sshd[29795]: Accepted publickey for deploy from 10.0.1.24 port 57526 ssh2
+Oct 28 13:38:55 web01 sshd[27305]: Accepted publickey for mmartin from 10.0.1.20 port 52074 ssh2
+Oct 28 13:41:34 web01 sshd[18536]: Accepted publickey for deploy from 10.0.1.23 port 57790 ssh2
+Oct 28 13:45:13 web01 sshd[20777]: Accepted password for carla from 10.0.1.50 port 58317 ssh2
+Oct 28 13:55:13 web01 sshd[16946]: Accepted publickey for mmartin from 10.0.1.44 port 63092 ssh2
+Oct 28 14:01:35 web01 sshd[10308]: Accepted publickey for bob from 10.0.1.51 port 48805 ssh2
+Oct 28 14:03:21 web01 sudo[8380]:    deploy : TTY=pts/1 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 14:07:45 web01 sshd[22046]: Accepted publickey for carla from 10.0.1.17 port 47391 ssh2
+Oct 28 14:17:00 web01 CRON[30986]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 14:25:00 web01 sshd[9629]: Failed password for bob from 10.0.1.22 port 57194 ssh2
+Oct 28 14:25:05 web01 sshd[31594]: Accepted publickey for bob from 10.0.1.22 port 45492 ssh2
+Oct 28 14:29:53 web01 sshd[29918]: Accepted password for deploy from 10.0.1.12 port 63613 ssh2
+Oct 28 14:31:26 web01 sshd[16099]: Accepted password for mmartin from 10.0.1.19 port 59063 ssh2
+Oct 28 14:40:06 web01 sshd[14957]: Failed password for mmartin from 10.0.1.23 port 46870 ssh2
+Oct 28 14:40:13 web01 sshd[17732]: Accepted password for mmartin from 10.0.1.23 port 44144 ssh2
+Oct 28 14:40:31 web01 sshd[17737]: Accepted publickey for alice from 10.0.1.49 port 59550 ssh2
+Oct 28 14:44:16 web01 sshd[24982]: Accepted publickey for carla from 10.0.1.38 port 41227 ssh2
+Oct 28 14:45:03 web01 sshd[15353]: Accepted publickey for alice from 10.0.1.39 port 55662 ssh2
+Oct 28 14:50:06 web01 sshd[3612]: Accepted publickey for bob from 10.0.1.33 port 60766 ssh2
+Oct 28 14:53:38 web01 sudo[15959]:    alice : TTY=pts/1 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/nginx/error.log
+Oct 28 14:55:20 web01 sudo[7498]:    alice : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/nginx/error.log
+Oct 28 15:02:32 web01 sshd[16449]: Accepted password for alice from 10.0.1.19 port 54721 ssh2
+Oct 28 15:05:56 web01 sshd[24322]: Accepted password for bob from 10.0.1.57 port 51597 ssh2
+Oct 28 15:05:56 web01 sshd[27580]: Failed password for deploy from 10.0.1.41 port 45842 ssh2
+Oct 28 15:06:03 web01 sshd[30852]: Failed password for deploy from 10.0.1.41 port 48022 ssh2
+Oct 28 15:06:06 web01 sshd[14619]: Accepted publickey for deploy from 10.0.1.41 port 44531 ssh2
+Oct 28 15:13:23 web01 sshd[15953]: Accepted publickey for bob from 10.0.1.44 port 53866 ssh2
+Oct 28 15:16:31 web01 sshd[1613]: Failed password for carla from 10.0.1.26 port 44365 ssh2
+Oct 28 15:16:37 web01 sshd[9218]: Failed password for carla from 10.0.1.26 port 51999 ssh2
+Oct 28 15:16:46 web01 sshd[12943]: Accepted password for carla from 10.0.1.26 port 46512 ssh2
+Oct 28 15:17:00 web01 CRON[1035]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 15:22:34 web01 sshd[2119]: Accepted password for mmartin from 10.0.1.43 port 49724 ssh2
+Oct 28 15:27:17 web01 sudo[11072]:    alice : TTY=pts/3 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Oct 28 15:30:22 web01 sshd[9280]: Accepted publickey for alice from 10.0.1.13 port 42250 ssh2
+Oct 28 15:37:24 web01 sshd[24828]: Failed password for deploy from 10.0.1.43 port 52606 ssh2
+Oct 28 15:37:27 web01 sshd[10555]: Accepted publickey for deploy from 10.0.1.43 port 44596 ssh2
+Oct 28 15:44:33 web01 sshd[30329]: Accepted publickey for alice from 10.0.1.36 port 42543 ssh2
+Oct 28 15:47:39 web01 sshd[4231]: Accepted publickey for deploy from 10.0.1.40 port 45510 ssh2
+Oct 28 15:55:44 web01 sshd[4680]: Accepted publickey for bob from 10.0.1.53 port 58026 ssh2
+Oct 28 15:57:57 web01 sudo[8246]:    deploy : TTY=pts/2 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 28 16:08:06 web01 sshd[24959]: Accepted publickey for alice from 10.0.1.27 port 58030 ssh2
+Oct 28 16:08:17 web01 sshd[21154]: Failed password for carla from 10.0.1.35 port 43042 ssh2
+Oct 28 16:08:22 web01 sshd[25646]: Failed password for carla from 10.0.1.35 port 53234 ssh2
+Oct 28 16:08:29 web01 sshd[19221]: Accepted publickey for carla from 10.0.1.35 port 64203 ssh2
+Oct 28 16:10:35 web01 sshd[18649]: Accepted publickey for mmartin from 10.0.1.47 port 41744 ssh2
+Oct 28 16:12:23 web01 sshd[8022]: Failed password for alice from 10.0.1.44 port 43831 ssh2
+Oct 28 16:12:29 web01 sshd[12270]: Accepted publickey for alice from 10.0.1.44 port 59709 ssh2
+Oct 28 16:13:18 web01 sudo[27484]:    alice : TTY=pts/1 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Oct 28 16:14:00 web01 sshd[28888]: Accepted publickey for deploy from 10.0.1.43 port 51934 ssh2
+Oct 28 16:14:29 web01 sudo[13420]:    deploy : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Oct 28 16:14:58 web01 sshd[20777]: Accepted publickey for deploy from 10.0.1.52 port 50414 ssh2
+Oct 28 16:17:00 web01 CRON[16543]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 16:18:51 web01 sshd[13664]: Accepted password for mmartin from 10.0.1.42 port 64616 ssh2
+Oct 28 16:22:51 web01 sshd[29963]: Accepted publickey for deploy from 10.0.1.44 port 61223 ssh2
+Oct 28 16:22:54 web01 sshd[30953]: Accepted publickey for bob from 10.0.1.56 port 41115 ssh2
+Oct 28 16:23:02 web01 sudo[11542]:    alice : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 16:23:56 web01 sshd[30395]: Accepted password for mmartin from 10.0.1.15 port 45079 ssh2
+Oct 28 16:29:31 web01 sudo[24268]:    alice : TTY=pts/2 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 16:45:09 web01 sshd[2901]: Accepted password for bob from 10.0.1.18 port 58774 ssh2
+Oct 28 16:55:07 web01 sshd[30882]: Accepted publickey for bob from 10.0.1.47 port 43479 ssh2
+Oct 28 16:57:20 web01 sshd[4058]: Accepted password for alice from 10.0.1.37 port 50806 ssh2
+Oct 28 17:06:15 web01 sshd[31464]: Accepted publickey for deploy from 10.0.1.58 port 56469 ssh2
+Oct 28 17:11:10 web01 sshd[14001]: Accepted publickey for bob from 10.0.1.20 port 51045 ssh2
+Oct 28 17:14:02 web01 sshd[16910]: Accepted publickey for carla from 10.0.1.53 port 62452 ssh2
+Oct 28 17:16:33 web01 sshd[7713]: Accepted password for deploy from 10.0.1.28 port 48539 ssh2
+Oct 28 17:17:00 web01 CRON[12009]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 17:21:32 web01 sshd[9167]: Accepted publickey for carla from 10.0.1.15 port 61308 ssh2
+Oct 28 17:23:56 web01 sudo[18135]:    alice : TTY=pts/3 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 17:35:01 web01 sshd[14117]: Accepted publickey for bob from 10.0.1.23 port 64901 ssh2
+Oct 28 17:43:10 web01 sshd[20202]: Accepted password for carla from 10.0.1.15 port 62319 ssh2
+Oct 28 17:49:39 web01 sshd[11083]: Accepted publickey for carla from 10.0.1.30 port 58952 ssh2
+Oct 28 17:50:11 web01 sudo[5957]:    alice : TTY=pts/2 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Oct 28 17:52:12 web01 sshd[15476]: Accepted publickey for carla from 10.0.1.20 port 44097 ssh2
+Oct 28 18:06:23 web01 sshd[13266]: Accepted publickey for deploy from 10.0.1.58 port 58658 ssh2
+Oct 28 18:07:42 web01 sshd[13231]: Accepted publickey for carla from 10.0.1.35 port 59946 ssh2
+Oct 28 18:08:52 web01 sshd[15016]: Accepted publickey for bob from 10.0.1.54 port 64606 ssh2
+Oct 28 18:09:01 web01 sudo[6245]:    alice : TTY=pts/3 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/nginx/error.log
+Oct 28 18:17:00 web01 CRON[13636]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 18:30:03 web01 sshd[1139]: Accepted publickey for carla from 10.0.1.15 port 46704 ssh2
+Oct 28 18:30:07 web01 sshd[14259]: Failed password for alice from 10.0.1.18 port 44837 ssh2
+Oct 28 18:30:12 web01 sshd[15459]: Failed password for alice from 10.0.1.18 port 40664 ssh2
+Oct 28 18:30:19 web01 sshd[13389]: Accepted publickey for alice from 10.0.1.18 port 44933 ssh2
+Oct 28 18:33:56 web01 sshd[4069]: Accepted publickey for alice from 10.0.1.36 port 40112 ssh2
+Oct 28 18:37:03 web01 sshd[16005]: Accepted password for mmartin from 10.0.1.30 port 42583 ssh2
+Oct 28 18:39:03 web01 sshd[4719]: Failed password for carla from 10.0.1.18 port 47516 ssh2
+Oct 28 18:39:11 web01 sshd[30647]: Failed password for carla from 10.0.1.18 port 42189 ssh2
+Oct 28 18:39:14 web01 sshd[20209]: Accepted password for carla from 10.0.1.18 port 42353 ssh2
+Oct 28 18:39:44 web01 sshd[30374]: Accepted publickey for bob from 10.0.1.17 port 46202 ssh2
+Oct 28 18:40:00 web01 sshd[15443]: Accepted publickey for deploy from 10.0.1.47 port 50641 ssh2
+Oct 28 18:40:09 web01 sshd[14982]: Accepted publickey for alice from 10.0.1.28 port 44219 ssh2
+Oct 28 18:51:36 web01 sshd[5301]: Accepted publickey for deploy from 10.0.1.49 port 50433 ssh2
+Oct 28 18:55:02 web01 sshd[18605]: Accepted publickey for carla from 10.0.1.29 port 48767 ssh2
+Oct 28 18:59:01 web01 sudo[957]:    alice : TTY=pts/2 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 28 19:12:34 web01 sshd[7662]: Accepted password for alice from 10.0.1.16 port 55186 ssh2
+Oct 28 19:17:00 web01 CRON[17409]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 19:18:01 web01 sshd[3347]: Accepted publickey for alice from 10.0.1.22 port 52809 ssh2
+Oct 28 19:20:18 web01 sudo[25682]:    deploy : TTY=pts/1 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 28 19:22:08 web01 sshd[23179]: Accepted publickey for deploy from 10.0.1.20 port 46082 ssh2
+Oct 28 19:23:07 web01 sudo[7246]:    alice : TTY=pts/3 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Oct 28 19:23:25 web01 sshd[16896]: Accepted password for alice from 10.0.1.40 port 51605 ssh2
+Oct 28 19:26:25 web01 sudo[22499]:    alice : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 28 19:27:03 web01 sshd[21674]: Accepted password for carla from 10.0.1.33 port 58180 ssh2
+Oct 28 19:29:53 web01 sshd[22213]: Accepted password for mmartin from 10.0.1.50 port 46226 ssh2
+Oct 28 19:31:04 web01 sudo[6439]:    alice : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 19:34:33 web01 sshd[28967]: Failed password for bob from 10.0.1.37 port 40359 ssh2
+Oct 28 19:34:37 web01 sshd[9358]: Accepted publickey for bob from 10.0.1.37 port 50077 ssh2
+Oct 28 19:43:17 web01 sshd[31977]: Failed password for alice from 10.0.1.55 port 48098 ssh2
+Oct 28 19:43:22 web01 sshd[8301]: Accepted password for alice from 10.0.1.55 port 50406 ssh2
+Oct 28 19:44:52 web01 sshd[29378]: Accepted publickey for carla from 10.0.1.31 port 46269 ssh2
+Oct 28 19:46:24 web01 sshd[1685]: Accepted password for alice from 10.0.1.18 port 64109 ssh2
+Oct 28 19:54:37 web01 sudo[3974]:    alice : TTY=pts/1 ; PWD=/home ; USER=root ; COMMAND=/usr/bin/journalctl -u php8.2-fpm
+Oct 28 19:59:49 web01 sshd[9599]: Accepted password for mmartin from 10.0.1.38 port 50124 ssh2
+Oct 28 20:17:00 web01 CRON[20321]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 21:10:00 web01 sshd[14303]: Failed password for root from 203.0.113.45 port 42614 ssh2
+Oct 28 21:10:09 web01 sshd[18799]: Failed password for root from 203.0.113.45 port 49897 ssh2
+Oct 28 21:10:13 web01 sshd[19323]: Failed password for root from 203.0.113.45 port 56369 ssh2
+Oct 28 21:10:21 web01 sshd[2357]: Failed password for root from 203.0.113.45 port 45732 ssh2
+Oct 28 21:10:30 web01 sshd[19664]: Failed password for root from 203.0.113.45 port 48155 ssh2
+Oct 28 21:10:37 web01 sshd[27309]: Failed password for root from 203.0.113.45 port 45600 ssh2
+Oct 28 21:10:42 web01 sshd[19929]: Failed password for root from 203.0.113.45 port 41110 ssh2
+Oct 28 21:10:51 web01 sshd[29924]: Failed password for root from 203.0.113.45 port 57456 ssh2
+Oct 28 21:10:58 web01 sshd[19697]: Failed password for root from 203.0.113.45 port 53429 ssh2
+Oct 28 21:11:04 web01 sshd[24689]: Failed password for root from 203.0.113.45 port 48135 ssh2
+Oct 28 21:11:13 web01 sshd[17211]: Failed password for root from 203.0.113.45 port 60202 ssh2
+Oct 28 21:11:17 web01 sshd[1119]: Failed password for root from 203.0.113.45 port 43683 ssh2
+Oct 28 21:11:21 web01 sshd[17861]: Failed password for root from 203.0.113.45 port 58636 ssh2
+Oct 28 21:11:29 web01 sshd[14256]: Failed password for root from 203.0.113.45 port 56376 ssh2
+Oct 28 21:11:38 web01 sshd[1865]: Failed password for root from 203.0.113.45 port 40733 ssh2
+Oct 28 21:11:43 web01 sshd[17593]: Failed password for invalid user admin from 203.0.113.45 port 64809 ssh2
+Oct 28 21:11:48 web01 sshd[28957]: Failed password for invalid user admin from 203.0.113.45 port 45476 ssh2
+Oct 28 21:11:52 web01 sshd[1453]: Failed password for invalid user admin from 203.0.113.45 port 56162 ssh2
+Oct 28 21:11:56 web01 sshd[31071]: Failed password for invalid user admin from 203.0.113.45 port 60593 ssh2
+Oct 28 21:12:03 web01 sshd[5644]: Failed password for invalid user admin from 203.0.113.45 port 60205 ssh2
+Oct 28 21:12:11 web01 sshd[9457]: Failed password for invalid user admin from 203.0.113.45 port 57083 ssh2
+Oct 28 21:12:17 web01 sshd[17227]: Failed password for deploy from 203.0.113.45 port 46104 ssh2
+Oct 28 21:12:25 web01 sshd[2577]: Failed password for deploy from 203.0.113.45 port 44700 ssh2
+Oct 28 21:12:34 web01 sshd[24961]: Failed password for deploy from 203.0.113.45 port 52430 ssh2
+Oct 28 21:12:39 web01 sshd[28908]: Failed password for deploy from 203.0.113.45 port 49061 ssh2
+Oct 28 21:12:45 web01 sshd[2954]: Failed password for deploy from 203.0.113.45 port 47120 ssh2
+Oct 28 21:12:52 web01 sshd[9851]: Failed password for deploy from 203.0.113.45 port 54386 ssh2
+Oct 28 21:12:59 web01 sshd[9793]: Failed password for deploy from 203.0.113.45 port 52613 ssh2
+Oct 28 21:13:04 web01 sshd[21479]: Failed password for deploy from 203.0.113.45 port 45426 ssh2
+Oct 28 21:13:09 web01 sshd[15052]: Failed password for deploy from 203.0.113.45 port 43703 ssh2
+Oct 28 21:14:05 web01 sshd[16449]: Accepted password for deploy from 203.0.113.45 port 52344 ssh2
+Oct 28 21:16:20 web01 sudo[30485]:    deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/bin/bash
+Oct 28 21:17:00 web01 CRON[31812]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 21:17:02 web01 useradd[15300]: new user: name=backup2, UID=1007, GID=1007, home=/home/backup2, shell=/bin/bash, from=/dev/pts/1
+Oct 28 21:17:15 web01 usermod[15569]: add 'backup2' to group 'sudo'
+Oct 28 21:20:00 web01 sshd[6086]: Failed password for alice from 198.51.100.23 port 59535 ssh2
+Oct 28 21:20:51 web01 sshd[3905]: Failed password for bob from 198.51.100.23 port 49388 ssh2
+Oct 28 21:21:46 web01 sshd[29042]: Failed password for carla from 198.51.100.23 port 47072 ssh2
+Oct 28 21:22:40 web01 sshd[15385]: Failed password for deploy from 198.51.100.23 port 49812 ssh2
+Oct 28 21:23:40 web01 sshd[22451]: Failed password for invalid user admin from 198.51.100.23 port 59797 ssh2
+Oct 28 21:24:36 web01 sshd[5267]: Failed password for invalid user test from 198.51.100.23 port 54392 ssh2
+Oct 28 21:25:36 web01 sshd[29142]: Failed password for invalid user oracle from 198.51.100.23 port 51499 ssh2
+Oct 28 21:26:28 web01 sshd[18325]: Failed password for invalid user postgres from 198.51.100.23 port 42067 ssh2
+Oct 28 21:27:27 web01 sshd[2059]: Failed password for alice from 198.51.100.23 port 58857 ssh2
+Oct 28 21:28:20 web01 sshd[6415]: Failed password for mmartin from 198.51.100.23 port 47092 ssh2
+Oct 28 22:17:00 web01 CRON[13411]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 28 23:17:00 web01 CRON[12497]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)

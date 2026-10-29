@@ -1,0 +1,15 @@
+id: VIG-004
+title: Compte Windows ciblé
+severity: medium
+mitre: [T1110]
+description: >
+  Un même compte Windows échoue à se connecter de nombreuses fois : attaque sur ce compte,
+  ou mot de passe enregistré quelque part et devenu faux. Risque de verrouillage.
+match:
+  source: windows
+  action: auth_failure
+threshold:
+  group_by: user
+  count: 10
+  window: 10m
+message: "{count} échecs de connexion sur le compte {user} en {duration}"

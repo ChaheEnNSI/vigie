@@ -1,0 +1,74 @@
+[
+ {
+  "rule": "VIG-014",
+  "key": "203.0.113.45"
+ },
+ {
+  "rule": "VIG-013",
+  "key": "203.0.113.45"
+ },
+ {
+  "rule": "VIG-010",
+  "key": "203.0.113.45"
+ },
+ {
+  "rule": "VIG-011",
+  "key": "203.0.113.45"
+ },
+ {
+  "rule": "VIG-012",
+  "key": "203.0.113.45"
+ },
+ {
+  "rule": "VIG-001",
+  "key": "203.0.113.45"
+ },
+ {
+  "rule": "VIG-003",
+  "key": "203.0.113.45"
+ },
+ {
+  "rule": "VIG-015",
+  "key": "deploy"
+ },
+ {
+  "rule": "VIG-006",
+  "key": "backup2"
+ },
+ {
+  "rule": "VIG-005",
+  "key": "backup2"
+ },
+ {
+  "rule": "VIG-002",
+  "key": "198.51.100.23"
+ },
+ {
+  "rule": "VIG-004",
+  "key": "administrateur"
+ },
+ {
+  "rule": "VIG-003",
+  "key": "198.51.100.23"
+ },
+ {
+  "rule": "VIG-009",
+  "key": "jdupont"
+ },
+ {
+  "rule": "VIG-006",
+  "key": "svc-backup"
+ },
+ {
+  "rule": "VIG-005",
+  "key": "svc-backup"
+ },
+ {
+  "rule": "VIG-008",
+  "key": "DC01.corp.local"
+ },
+ {
+  "rule": "VIG-007",
+  "key": "jdupont"
+ }
+]

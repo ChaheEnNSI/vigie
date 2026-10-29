@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vigie"
+version = "0.1.0"
+description = "Un petit SIEM en Python : détecte les attaques dans les journaux Linux, Windows, web et pare-feu (règles YAML, MITRE ATT&CK)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Chahé Papazian" }]
+dependencies = ["PyYAML>=6.0"]
+keywords = ["security", "siem", "detection", "mitre-attack", "logs", "blue-team"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.5"]
+
+[project.scripts]
+vigie = "vigie.cli:main"
+
+[tool.setuptools]
+packages = ["vigie", "vigie.parsers"]
+
+[tool.setuptools.package-data]
+vigie = ["detections/*.yml"]
+
+[tool.ruff]
+line-length = 160
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
